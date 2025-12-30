@@ -1,0 +1,16 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Dependencies (if you add npm later)
+node_modules/
+.npm/
+
+# Build Output
+dist/
+build/
+.vercel
