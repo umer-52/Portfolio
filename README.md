@@ -29,8 +29,6 @@ We recommend **Vercel** for the best hosting experience.
 
 ## 👨‍💻 Author
 **Umer Khan** - Shopify Developer
-*   📧 umerkhan.shopify@gmail.com
-*   💼 [LinkedIn Profile](https://www.linkedin.com/in/umer-khan-shopify)
-
+*   📧 umerkhanpk03@gmail.com
 ---
 *Built with ❤️ for the Shopify Developer Community.*
